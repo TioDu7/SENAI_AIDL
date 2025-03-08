@@ -55,8 +55,8 @@ public class MainActivity extends AppCompatActivity {
 
         super.onResume();
         // Exemplo de uso do serviço assim que a Activity fica em primeiro plano
-        Log.d("AIDL_DEMO", "-------------- V: " + vinculado);
-        Log.d("AIDL_DEMO", "-------------- S: " + servico);
+        Log.d("AIDL_DEMO", "Teste do Vinculado -------------- : " + vinculado); // para testar o serviço
+        Log.d("AIDL_DEMO", "Teste do Serviço -------------- : " + servico);
 
         if (vinculado && servico != null) {
             try {
