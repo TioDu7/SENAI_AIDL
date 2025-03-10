@@ -49,7 +49,7 @@ O bind ao serviço foi realizado em uma Activity do aplicativo utilizando o mét
 
 ## Conclusão
 
-A atividade demonstrou a importância do AIDL na comunicação interprocessual em aplicações Android. Através da configuração adequada do ambiente de desenvolvimento e da implementação do serviço, os desenvolvedores puderam focar na lógica de negócios. A execução e validação no emulador confirmaram a eficácia da implementação.
+A atividade demonstrou a importância do AIDL na comunicação interprocessual em aplicações Android. Através da configuração adequada do ambiente de desenvolvimento e da implementação do serviço, foi possível focar na lógica de negócios. A execução e validação no emulador confirmaram a eficácia da implementação.
 
 ## Referências
 
